@@ -1,5 +1,7 @@
+# Description
+
 Swatch Shop with React and Redux
 
-Author
+## Author
 
 Sam Saprykin
